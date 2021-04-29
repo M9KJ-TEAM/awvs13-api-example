@@ -1,0 +1,12 @@
+-
+1.插入任务
+main_awvs_task_scan.py->add
+2.开始扫描
+main_awvs_task_scan.py->startscan
+3.获取扫描详情
+main_awvs_task_info.py->scan_info
+4.获取扫描状态
+main_awvs_task_info.py->scanstatus
+5.获取扫描结果
+main_awvs_task_info.py->vulresult
+
